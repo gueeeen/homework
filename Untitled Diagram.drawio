@@ -1,6 +1,6 @@
-<mxfile modified="2021-11-01T06:22:32.671Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="NWmduBSEGBM_k3cQeUIy" version="15.6.3" type="github" pages="2">
+<mxfile modified="2021-11-01T08:29:06.290Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="VvzKHB3Q_CfENC_EAQnt" version="15.6.3" type="github" pages="2">
   <diagram id="TniNXG83DVIHnhaAD-jW" name="第2頁">
-    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hA78sCCtqHbBmqeCP7ZG-0" />
         <mxCell id="hA78sCCtqHbBmqeCP7ZG-1" parent="hA78sCCtqHbBmqeCP7ZG-0" />
@@ -152,10 +152,610 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fPUA-GVwy3mPU0tX2Xv3" name="第3頁">
-    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2K_9lExNW0-oMNbp71sJ-0" />
         <mxCell id="2K_9lExNW0-oMNbp71sJ-1" parent="2K_9lExNW0-oMNbp71sJ-0" />
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-0" value="顧客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="60" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-2" value="" style="image;html=1;image=img/lib/clip_art/finance/Piggy_Bank_128x128.png" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="1550" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-3" value="銀行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="1570" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" source="ULAwQ4YCDtS85E5IezKJ-17" target="WeI9G7bsKdehBrq2F3Cg-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1395" y="380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" source="ULAwQ4YCDtS85E5IezKJ-32" target="WeI9G7bsKdehBrq2F3Cg-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1025" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" source="ULAwQ4YCDtS85E5IezKJ-2" target="WeI9G7bsKdehBrq2F3Cg-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290.2512626584708" y="115.85786437626916" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.227;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" source="ULAwQ4YCDtS85E5IezKJ-47" target="WeI9G7bsKdehBrq2F3Cg-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="405" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.69;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" source="SJti8cNhnb3wumN1TBgO-2" target="WeI9G7bsKdehBrq2F3Cg-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" source="AEx1RT4Kgf8uo1j6OaFh-3" target="WeI9G7bsKdehBrq2F3Cg-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-19" value="ATM交易系統" style="ellipse;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="740" y="280" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-20" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" target="WeI9G7bsKdehBrq2F3Cg-44" source="WeI9G7bsKdehBrq2F3Cg-0">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="260" as="sourcePoint" />
+            <mxPoint x="570" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-21" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" target="WeI9G7bsKdehBrq2F3Cg-19" source="WeI9G7bsKdehBrq2F3Cg-0">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="260" as="sourcePoint" />
+            <mxPoint x="540" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" source="WeI9G7bsKdehBrq2F3Cg-19" target="WeI9G7bsKdehBrq2F3Cg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" source="WeI9G7bsKdehBrq2F3Cg-19" target="WeI9G7bsKdehBrq2F3Cg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-24" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.947;exitY=0.277;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" source="WeI9G7bsKdehBrq2F3Cg-19" target="WeI9G7bsKdehBrq2F3Cg-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="670" y="340" as="sourcePoint" />
+            <mxPoint x="830" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-26" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2K_9lExNW0-oMNbp71sJ-1" source="WeI9G7bsKdehBrq2F3Cg-19" target="WeI9G7bsKdehBrq2F3Cg-54">
+          <mxGeometry x="-0.5745" y="-16" width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="280" as="sourcePoint" />
+            <mxPoint x="870" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="270" />
+              <mxPoint x="745" y="270" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-37" value="語言" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="180" y="30" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-38" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-37">
+          <mxGeometry y="30" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-39" value="人員" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-38">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-40" value="顧客" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-38">
+          <mxGeometry x="30" width="350" height="30" as="geometry">
+            <mxRectangle width="350" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-41" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-37">
+          <mxGeometry y="60" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-42" value="輸入" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-41">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-43" value="中文、English、日本語" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-41">
+          <mxGeometry x="30" width="350" height="30" as="geometry">
+            <mxRectangle width="350" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-44" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-37">
+          <mxGeometry y="90" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-45" value="輸出" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-44">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-46" value="選擇的語言" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-44">
+          <mxGeometry x="30" width="350" height="30" as="geometry">
+            <mxRectangle width="350" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-47" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-37">
+          <mxGeometry y="120" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-48" value="行動" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-47">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-49" value="如果選擇中文，則整個使用者介面將以中文顯示；選擇English，&#xa;使用介面以英文呈現；選擇日本語，使用者介面以日文呈現" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-47">
+          <mxGeometry x="30" width="350" height="30" as="geometry">
+            <mxRectangle width="350" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-51" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="180" y="190" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-52" value="例外" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-51">
+          <mxGeometry width="25.8" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-53" value="無" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-51">
+          <mxGeometry x="25.8" width="404.20000000000005" height="30" as="geometry">
+            <mxRectangle width="470" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-54" value="身分驗證" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="590" y="30" width="310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-55" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-54">
+          <mxGeometry y="30" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-56" value="人員" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-55">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-57" value="顧客、ATM" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-55">
+          <mxGeometry x="30" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-58" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-54">
+          <mxGeometry y="60" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-59" value="輸入" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-58">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-60" value="身分Pin碼" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-58">
+          <mxGeometry x="30" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-61" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-54">
+          <mxGeometry y="90" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-62" value="輸出" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-61">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-63" value="正確、錯誤" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-61">
+          <mxGeometry x="30" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-64" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-54">
+          <mxGeometry y="120" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-65" value="行動" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-64">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeI9G7bsKdehBrq2F3Cg-66" value="有卡交易：插卡後輸入密碼&#xa;無卡交易：輸入無卡交易之序號、帳戶帳號、密碼" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="WeI9G7bsKdehBrq2F3Cg-64">
+          <mxGeometry x="30" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-0" value="例外" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="590" y="190" width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-1" value="卡片損壞、忘記密碼、序號遺失" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="620" y="190" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-3" value="繳稅" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="25" y="390" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-4" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-3">
+          <mxGeometry y="30" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-5" value="人員" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-4">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-6" value="顧客、銀行、政府" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-4">
+          <mxGeometry x="30" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-3">
+          <mxGeometry y="60" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-8" value="輸入" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-7">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-9" value="繳稅代號、銷帳編號、應繳金額、繳納截止日" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=11;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-7">
+          <mxGeometry x="30" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-3">
+          <mxGeometry y="90" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-11" value="輸出" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-10">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-12" value="繳稅明細單" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-10">
+          <mxGeometry x="30" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-13" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-3">
+          <mxGeometry y="120" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-14" value="行動" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-13">
+          <mxGeometry width="30" height="70" as="geometry">
+            <mxRectangle width="30" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEx1RT4Kgf8uo1j6OaFh-15" value="輸入繳稅代號五位數字→輸入銷帳編號16位數字&#xa;(繳稅通知單上所列之銷帳編號)&#xa;→輸入應繳金額→輸入繳納截止日6位數字&#xa;(繳稅通知單上所列之繳納截止日)→&#xa;取出交易明細單繳稅成功!" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="AEx1RT4Kgf8uo1j6OaFh-13">
+          <mxGeometry x="30" width="280" height="70" as="geometry">
+            <mxRectangle width="280" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-0" value="例外" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="25" y="583" width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-1" value="輸入錯誤、帳戶餘額不足" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="55" y="583" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-2" value="密碼變更" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="950" y="30" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-2">
+          <mxGeometry y="30" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-4" value="人員" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-3">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-5" value="顧客、銀行" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-3">
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-2">
+          <mxGeometry y="60" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-7" value="輸入" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-6">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-8" value="原始密碼、新密碼" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-6">
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-2">
+          <mxGeometry y="90" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-10" value="輸出" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-9">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-11" value="輸出" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-9">
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-2">
+          <mxGeometry y="120" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-13" value="行動" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-12">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJti8cNhnb3wumN1TBgO-14" value="輸入原始密碼，新密碼→再次輸入新密碼" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="SJti8cNhnb3wumN1TBgO-12">
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-0" value="例外" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="950" y="190" width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-1" value="忘記原始密碼者須直接去銀行更改" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="980" y="190" width="230" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-2" value="餘額查詢" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="1290" y="30" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-2">
+          <mxGeometry y="30" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-4" value="人員" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-3">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-5" value="顧客、銀行" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-3">
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-2">
+          <mxGeometry y="60" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-7" value="輸入" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-6">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-8" value="點擊餘額查詢、結束交易" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-6">
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-2">
+          <mxGeometry y="90" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-10" value="輸出" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-9">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-11" value="交易明細" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-9">
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-2">
+          <mxGeometry y="120" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-13" value="行動" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-12">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-14" value="點擊餘額查詢→結束交易→ATM印出明細" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-12">
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-15" value="例外" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="1290" y="190" width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-16" value="無" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="1320" y="190" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-17" value="提款" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="1290" y="385" width="270" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-18" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-17">
+          <mxGeometry y="30" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-19" value="人員" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-18">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-20" value="顧客、銀行" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-18">
+          <mxGeometry x="30" width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-21" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-17">
+          <mxGeometry y="60" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-22" value="輸入" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-21">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-23" value="提款金額、是否印出明細、結束交易" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-21">
+          <mxGeometry x="30" width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-17">
+          <mxGeometry y="90" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-25" value="輸出" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-24">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-26" value="是否印出明細、退卡、鈔票" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-24">
+          <mxGeometry x="30" width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-17">
+          <mxGeometry y="120" width="270" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-28" value="行動" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-27">
+          <mxGeometry width="30" height="45" as="geometry">
+            <mxRectangle width="30" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-29" value="選擇提款金額(快速提款或一般提款)→&#xa;點擊是否列印明細(是/否)→&#xa;點擊結束交易→ATM退出金融卡→領出鈔票" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-27">
+          <mxGeometry x="30" width="240" height="45" as="geometry">
+            <mxRectangle width="240" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-30" value="例外" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="1290" y="555" width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-31" value="超過提款金額上限" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="1320" y="556" width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-32" value="存款" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="960" y="385" width="270" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-33" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-32">
+          <mxGeometry y="30" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-34" value="人員" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-33">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-35" value="顧客、銀行" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-33">
+          <mxGeometry x="30" width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-36" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-32">
+          <mxGeometry y="60" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-37" value="輸入" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-36">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-38" value="存款帳戶、密碼、新台幣、點擊確認存入" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-36">
+          <mxGeometry x="30" width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-39" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-32">
+          <mxGeometry y="90" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-40" value="輸出" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-39">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-41" value="明細" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-39">
+          <mxGeometry x="30" width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-42" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-32">
+          <mxGeometry y="120" width="270" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-43" value="行動" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-42">
+          <mxGeometry width="30" height="45" as="geometry">
+            <mxRectangle width="30" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-44" value="選擇帳戶(此卡/其他帳戶)→輸入密碼→&#xa;確認帳戶資料→放入鈔票→確認鈔票放妥→&#xa;確認交易資料→影印明細(是/否)→取卡" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-42">
+          <mxGeometry x="30" width="240" height="45" as="geometry">
+            <mxRectangle width="240" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-45" value="例外" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="960" y="556" width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-46" value="存入超過今日上限、鈔票辨識錯誤" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="990" y="555" width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-47" value="轉帳" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="380" y="390" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-48" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-47">
+          <mxGeometry y="30" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-49" value="人員" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-48">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-50" value="顧客、銀行" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-48">
+          <mxGeometry x="30" width="270" height="30" as="geometry">
+            <mxRectangle width="270" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-51" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-47">
+          <mxGeometry y="60" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-52" value="輸入" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-51">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-53" value="銀行代碼、轉帳帳號、金額" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-51">
+          <mxGeometry x="30" width="270" height="30" as="geometry">
+            <mxRectangle width="270" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-54" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-47">
+          <mxGeometry y="90" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-55" value="輸出" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-54">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-56" value="明細" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-54">
+          <mxGeometry x="30" width="270" height="30" as="geometry">
+            <mxRectangle width="270" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-57" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-47">
+          <mxGeometry y="120" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-58" value="行動" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-57">
+          <mxGeometry width="30" height="60" as="geometry">
+            <mxRectangle width="30" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-59" value="輸入轉入帳的銀行代碼→&#xa;輸入轉帳帳號(13或16碼)→&#xa;輸入金額(不包含跨行轉帳手續費)→&#xa;確認輸入資料是否正確→)確認後即完成轉帳交易" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ULAwQ4YCDtS85E5IezKJ-57">
+          <mxGeometry x="30" width="270" height="60" as="geometry">
+            <mxRectangle width="270" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-60" value="例外" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="380" y="580" width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULAwQ4YCDtS85E5IezKJ-61" value="超過帳戶當日轉帳上限" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="2K_9lExNW0-oMNbp71sJ-1">
+          <mxGeometry x="410" y="580" width="270" height="30" as="geometry">
+            <mxRectangle width="270" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
